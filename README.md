@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Subham
 #### Sophomore IIT Ropar
-![Sophomore IIT Ropar](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I love to work in the machine learning domain. I am currently working on GANs. Planning to explore the applications of reinforcement learning in UAVs. In my free time, I enjoy working on business case studies.
 
