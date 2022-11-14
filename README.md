@@ -3,9 +3,7 @@
 
 I love to work in the machine learning domain. I am currently working on GANs. Planning to explore the applications of reinforcement learning in UAVs. In my free time, I enjoy working on business case studies.
 
-🔭 I’m currently working on Computer Vision and GANs
-
-🌱 I’m currently learning Reinforcement Learning
+🔭 I’m currently working on Deep Learning and Software Development.
 
 💬 Ask me about machine learning, web development, consulting, and data analytics
 
