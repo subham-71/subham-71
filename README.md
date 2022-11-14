@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Subham
-#### CSE Sophomore at IIT Ropar
+#### CSE Junior at IIT Ropar
 
 I am keenly interested in Deep Learning and Software Development. Since my first year, I contributed significantly to open-source deep learning projects, which gave me hands-on experience building innovative and efficient AI solutions to solve real-world problems. I have also designed multiple websites(full-stack) in different hackathons addressing problem statements from diverse domains. I am familiar with react JS, node JS, firebase, flask, and Django.
 
